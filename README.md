@@ -1,4 +1,4 @@
-## <p align=center> Currently Work in Progress❗
+## <p align=center> Currently Work in Progress ❗
 
 <!--
 **SodanGum/SodanGum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
