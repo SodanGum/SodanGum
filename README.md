@@ -1,13 +1,8 @@
-## <p align=center> Currently Work in Progress ❗
-<p align=center> (Totally not because I'm lazy 💔)
-
-<p align=center> Feel free to sit with me ♡
-
-
-
+# <p align="center"> ⟡
 
 
 
 <p align="center">
-  <img src="https://github.com/SodanGum/SodanGum/blob/d45866022ef4342b1ad400ed3bd68e5d0f003849/sad-sorry.gif" />
+  <img src="https://github.com/SodanGum/SodanGum/blob/c2cc829cb6c699bf611bb3b6d52d87ed25195404/preview-cut-of-the-summer-hikaru-died-episode-1-replacement-v0-jytnirkzjfaf1.webp" />
 </p>
+<p align=center> “You really aren’t Hikaru.”
