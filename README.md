@@ -1,7 +1,7 @@
 # <p align="center"> ⌞ ⟡ ⌝
 
 
-## <p align=center> “You really aren’t Hikaru.”
+## <p align=center> “ *You really aren’t Hikaru.* ”
 
 
 <p align="center"> 
