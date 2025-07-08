@@ -1,8 +1,9 @@
 # <p align="center"> ⌞ ⟡ ⌝
 
 
+## <p align=center> “You really aren’t Hikaru.”
 
-<p align="center">
-  <img src="https://github.com/SodanGum/SodanGum/blob/c2cc829cb6c699bf611bb3b6d52d87ed25195404/preview-cut-of-the-summer-hikaru-died-episode-1-replacement-v0-jytnirkzjfaf1.webp" />
+
+<p align="center"> 
+<img src="https://github.com/SodanGum/SodanGum/blob/0d5cabad0127e27c1b5cea347ac9d9f9c3b3dcfc/hikaru-ga-shinda-natsu-the-summer-hikaru-died.gif" />
 </p>
-<p align=center> “You really aren’t Hikaru.”
