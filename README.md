@@ -20,4 +20,5 @@
 </p>
 
   # <p align="center"> ˗ˏˋ⚡︎ˎˊ˗
-  ![](https://komarev.com/ghpvc/?username=SodanGum&color=b4a777)
+
+![](https://komarev.com/ghpvc/?username=SodanGum&label=Ibuki+Caught+Fish!&color=b4a777)
