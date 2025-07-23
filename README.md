@@ -1,7 +1,7 @@
 # <p align="center"> ⌞ ⟡ ⌝
 
 
-## <p align=center> “ *Why are you doing this, Susanoo?* ”
+## <p align=center> *"Why are you doing this, Susanoo?"*
 
 
 <p align="center"> 
