@@ -24,3 +24,7 @@
 ![](https://komarev.com/ghpvc/?username=SodanGum&label=Ibuki+Caught+Fish!&color=b4a777)
 
 ⟡ Dividers by enchanthings on Tumblr ⟡
+
+Currently remaking StrawPage!
+
+[Atabook](sodangum.atabook.org)
