@@ -27,4 +27,4 @@
 
 Currently remaking StrawPage!
 
-[Atabook](sodangum.atabook.org)
+
