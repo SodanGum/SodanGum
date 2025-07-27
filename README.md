@@ -25,6 +25,4 @@
 
 ⟡ Dividers by enchanthings on Tumblr ⟡
 
-Currently remaking StrawPage!
-
 
