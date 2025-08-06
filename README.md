@@ -1,8 +1,7 @@
 # <p align="center"> ⌞ ⟡ ⌝
 
 
-## <p align=center> *"Why are you doing this, Susanoo?"*
-
+## <p align=center> $${\color{yellow}"Why \space are \space you \space doing \space this, \space Susanoo?"}$$
 
 <p align="center"> 
 <img src="https://github.com/SodanGum/SodanGum/blob/500719083f586bbe6d56cba0a8ba5931104c169a/tumblr_a8639bcf8284e1f32ef089cf169918ba_c3137fed_400.webp" />
@@ -24,5 +23,4 @@
 ![](https://komarev.com/ghpvc/?username=SodanGum&label=Ibuki+Caught+Fish!&color=b4a777)
 
 ⟡ Dividers by enchanthings on Tumblr ⟡
-
 
