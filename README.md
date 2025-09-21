@@ -5,12 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dongle&size=45&pause=1000&color=828DA0&center=true&width=500&lines=Won't+you+make+me+number+one%3F+;Yoisho.)](https://git.io/typing-svg)
 
-<img src="https://github.com/SodanGum/SodanGum/blob/32fc185705beab6ac115d4ad8de3005523e36c96/tumblr_6cd686924e0121f76d230c1a30e249ab_4459cf12_2048.png" />
+<img src="https://github.com/SodanGum/SodanGum/blob/6c431406a2ddd8446e44c66ee073856ef80a60af/tumblr_fb88b83b9fbd907e333dcd4a200e0322_7dedd2cd_2048.png" />
 
 *Links Pour Vous*
 
 [Clip of the Week](https://www.youtube.com/shorts/oYus7gj9S8s) &nbsp;&nbsp;&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;&nbsp;&nbsp; [Carrd](https://sodangum.carrd.co/) &nbsp;&nbsp;&nbsp; [StrawPage](https://sodangum.straw.page) &nbsp;&nbsp;&nbsp; [Atabook](https://sodangum.atabook.org/)
 
-<img src="https://github.com/SodanGum/SodanGum/blob/32fc185705beab6ac115d4ad8de3005523e36c96/tumblr_6cd686924e0121f76d230c1a30e249ab_4459cf12_2048.png" />
+<img src="https://github.com/SodanGum/SodanGum/blob/32a78489afa0bccb52d6b3c77e9f61ac350aeede/tumblr_309dd8a09d7b466cc8ef81b5473b1037_651e7519_2048.png" />
 
 ![](https://komarev.com/ghpvc/?username=SodanGum&label=Our+Princess&color=828da0&style=for-the-badge)
