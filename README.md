@@ -1,11 +1,11 @@
 <div align="center">
 
+<img src="https://github.com/SodanGum/SodanGum/blob/6c431406a2ddd8446e44c66ee073856ef80a60af/tumblr_fb88b83b9fbd907e333dcd4a200e0322_7dedd2cd_2048.png" />
+
 <img src="https://github.com/SodanGum/SodanGum/blob/ad4b8ec9044d281175276ee155469918a881ac2b/tumblr_3341d8373289a980a99112b82b365bce_0a2c4e83_540.webp" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dongle&size=45&pause=1000&color=828DA0&center=true&width=500&lines=Won't+you+make+me+number+one%3F+;Yoisho.)](https://git.io/typing-svg)
-
-<img src="https://github.com/SodanGum/SodanGum/blob/6c431406a2ddd8446e44c66ee073856ef80a60af/tumblr_fb88b83b9fbd907e333dcd4a200e0322_7dedd2cd_2048.png" />
 
 *Links Pour Vous*
 
