@@ -5,7 +5,7 @@
 <img src="https://github.com/SodanGum/SodanGum/blob/ad4b8ec9044d281175276ee155469918a881ac2b/tumblr_3341d8373289a980a99112b82b365bce_0a2c4e83_540.webp" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dongle&size=45&pause=1000&color=828DA0&center=true&width=500&lines=Won't+you+make+me+number+one%3F+;Yoisho.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hi+Melody&size=30&pause=1000&color=8AA9BE&center=true&width=435&lines=Won't+you+make+me+number+one%3F;Yoisho.)](https://git.io/typing-svg)
 
 *Links Pour Vous*
 
@@ -13,4 +13,4 @@
 
 <img src="https://github.com/SodanGum/SodanGum/blob/32a78489afa0bccb52d6b3c77e9f61ac350aeede/tumblr_309dd8a09d7b466cc8ef81b5473b1037_651e7519_2048.png" />
 
-![](https://komarev.com/ghpvc/?username=SodanGum&label=Our+Princess&color=828da0&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SodanGum&label=Our+Princess&color=8aa9be&style=for-the-badge)
