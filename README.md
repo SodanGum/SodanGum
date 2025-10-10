@@ -9,7 +9,7 @@
 
 *Links Pour Vous*
 
-[Clip of the Week](https://www.youtube.com/shorts/P4jc0JOCZB0) &nbsp;&nbsp;&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;&nbsp;&nbsp; [Carrd](https://sodangum.carrd.co/) &nbsp;&nbsp;&nbsp; [StrawPage](https://sodangum.straw.page) &nbsp;&nbsp;&nbsp; [Atabook](https://sodangum.atabook.org/)
+[Clip of the Week](https://www.youtube.com/shorts/70MlN1bs3vs) &nbsp;&nbsp;&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;&nbsp;&nbsp; [Carrd](https://sodangum.carrd.co/) &nbsp;&nbsp;&nbsp; [StrawPage](https://sodangum.straw.page) &nbsp;&nbsp;&nbsp; [Atabook](https://sodangum.atabook.org/)
 
 <img src="https://github.com/SodanGum/SodanGum/blob/32a78489afa0bccb52d6b3c77e9f61ac350aeede/tumblr_309dd8a09d7b466cc8ef81b5473b1037_651e7519_2048.png" />
 
