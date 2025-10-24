@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://github.com/SodanGum/SodanGum/blob/6c431406a2ddd8446e44c66ee073856ef80a60af/tumblr_fb88b83b9fbd907e333dcd4a200e0322_7dedd2cd_2048.png" />
+<img src="https://github.com/SodanGum/SodanGum/blob/d99f2318bb0e834e080762309121a56b4eacaa7e/tumblr_d48716925a238e78f7dfa96546634d88_b7828bae_2048.png" />
 
-<img src="https://github.com/SodanGum/SodanGum/blob/ad4b8ec9044d281175276ee155469918a881ac2b/tumblr_3341d8373289a980a99112b82b365bce_0a2c4e83_540.webp" />
+<img src="https://github.com/SodanGum/SodanGum/blob/a76db020512fb440997dd13fb0855c976e8ed8f4/tumblr_67ff0f3abc6affa30aad461cc89da254_821089a2_540.webp" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hi+Melody&size=30&pause=1000&color=8AA9BE&center=true&width=435&lines=Won't+you+make+me+number+one%3F;Yoisho.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chiron+Sung+HK&size=15&pause=1000&color=A889D3&center=true&width=500&lines=I+like+the+way+you+look+at+me.;+In+your+eyes%2C+even+the+darkest+depths+of+the+sea+are+made+transparent.+;With+you%2C+I+am+no+longer+%22The+Bane.%22;I+am+simply+myself.)](https://git.io/typing-svg)
 
 *Links Pour Vous*
 
-[Clip of the Week](https://www.youtube.com/shorts/EQXy_ZOdnak) &nbsp;&nbsp;&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;&nbsp;&nbsp; [Carrd](https://sodangum.carrd.co/) &nbsp;&nbsp;&nbsp; [StrawPage](https://sodangum.straw.page) &nbsp;&nbsp;&nbsp; [Atabook](https://sodangum.atabook.org/)
+[Clip of the Week](https://www.youtube.com/shorts/Nntm5MQ7HnM) &nbsp;&nbsp;&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;&nbsp;&nbsp; [Carrd](https://sodangum.carrd.co/) &nbsp;&nbsp;&nbsp; [StrawPage](https://sodangum.straw.page) &nbsp;&nbsp;&nbsp; [Atabook](https://sodangum.atabook.org/)
 
-<img src="https://github.com/SodanGum/SodanGum/blob/32a78489afa0bccb52d6b3c77e9f61ac350aeede/tumblr_309dd8a09d7b466cc8ef81b5473b1037_651e7519_2048.png" />
+<img src="https://github.com/SodanGum/SodanGum/blob/a5cd536bfc3212c1d2b544490157536e6d023c94/tumblr_2121800c0d2312d3b0bc06b03e426292_36678d64_2048.png" />
 
-![](https://komarev.com/ghpvc/?username=SodanGum&label=Our+Princess&color=8aa9be&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SodanGum&label=Sweet+dreams+my+dear+jellyfish+ଳ&color=b6a5d3&style=for-the-badge)
