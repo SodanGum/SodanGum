@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://github.com/SodanGum/SodanGum/blob/d99f2318bb0e834e080762309121a56b4eacaa7e/tumblr_d48716925a238e78f7dfa96546634d88_b7828bae_2048.png" />
-
-<img src="https://github.com/SodanGum/SodanGum/blob/a76db020512fb440997dd13fb0855c976e8ed8f4/tumblr_67ff0f3abc6affa30aad461cc89da254_821089a2_540.webp" />
+<img src=https://github.com/SodanGum/SodanGum/blob/ff8a920d94498a7107447b3c00b40580e5bb88b8/tumblr_f48685c07034fc4ee97590fe01f7ce5e_530e768a_1280.png />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chiron+Sung+HK&size=15&pause=1000&color=A889D3&center=true&width=500&lines=I+like+the+way+you+look+at+me.;+In+your+eyes%2C+even+the+darkest+depths+of+the+sea+are+made+transparent.+;With+you%2C+I+am+no+longer+%22The+Bane.%22;I+am+simply+myself.)](https://git.io/typing-svg)
+<img src=https://github.com/SodanGum/SodanGum/blob/f3e72773b9cf15467750141d03c52e8f6b6d4c95/tumblr_f0011a26c209eafaf7568a10a1b95ddb_dfcb6fab_540.webp />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dokdo&size=15&pause=2500&color=A2B0BD&center=true&width=500&height=20&lines=%22Maybe+you+and+I+and+the+fish+exist+only+in+the+memory+of+a+person+who+is+gone.%22;%22Maybe+no+one+really+exists%2C+and+it's+only+raining+outside.%22;%22Maybe+the+bird+never+existed+at+all.%22)](https://git.io/typing-svg)
 
 *Links Pour Vous*
 
 [Clip of the Week](https://youtube.com/shorts/sfEwmk4fHA0?si=O7a3y3MdOatSHFmh) &nbsp;&nbsp;&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;&nbsp;&nbsp; [Carrd](https://sodangum.carrd.co/) &nbsp;&nbsp;&nbsp; [Old StrawPage](https://sodangum.straw.page) &nbsp;&nbsp;&nbsp; [Atabook](https://sodangum.atabook.org/)
 
-<img src="https://github.com/SodanGum/SodanGum/blob/a5cd536bfc3212c1d2b544490157536e6d023c94/tumblr_2121800c0d2312d3b0bc06b03e426292_36678d64_2048.png" />
-
-![](https://komarev.com/ghpvc/?username=SodanGum&label=Sweet+dreams+my+dear+jellyfish+ଳ&color=b6a5d3&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SodanGum&label=Angel's+Egg&color=b6c6d5&style=for-the-badge)
