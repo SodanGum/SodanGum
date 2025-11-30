@@ -10,6 +10,6 @@
 
 *Links Pour Vous*
 
-[Clip of the Week](https://youtube.com/shorts/sfEwmk4fHA0?si=O7a3y3MdOatSHFmh) &nbsp;&nbsp;&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;&nbsp;&nbsp; [Carrd](https://sodangum.carrd.co/) &nbsp;&nbsp;&nbsp; [Old StrawPage](https://sodangum.straw.page) &nbsp;&nbsp;&nbsp; [Atabook](https://sodangum.atabook.org/)
+[Clip of the Week](https://www.youtube.com/shorts/2XRswpQOigM) &nbsp;&nbsp;&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;&nbsp;&nbsp; [Carrd](https://sodangum.carrd.co/) &nbsp;&nbsp;&nbsp; [Old StrawPage](https://sodangum.straw.page) &nbsp;&nbsp;&nbsp; [Atabook](https://sodangum.atabook.org/)
 
 ![](https://komarev.com/ghpvc/?username=SodanGum&label=Angel's+Egg&color=b6c6d5&style=for-the-badge)
