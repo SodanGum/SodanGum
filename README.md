@@ -6,4 +6,4 @@
 
 [Clip of the Week](https://www.youtube.com/shorts/fUgO4GUCn4k) &nbsp;𓃡&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit)
 
-⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ+۫DD+𓃠&color=b9aad9&style=for-the-badge)
+⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ+DD+𓃠&color=b9aad9&style=for-the-badge)
