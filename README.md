@@ -1,9 +1,9 @@
 <div align="center">
 
-![alt text](https://github.com/SodanGum/SodanGum/blob/8d91b2c7fe55805a3e9efe676fdfad4dd48125d4/IMG_0390.png) &nbsp; ![alt text](https://github.com/SodanGum/SodanGum/blob/a2cd8b8dc40924077897daf2cc5f8de071008c42/IMG_0390%20(1).png) &nbsp; ![alt text](https://github.com/SodanGum/SodanGum/blob/58b5bae410aee146c1eebc1cd37a1d01e534f2ad/IMG_0390%20(2).png)
+![alt text](https://github.com/SodanGum/SodanGum/blob/7bac2e4d376a9a13eaedcc407bc2a03bfc1e1383/IMG_0390%20(3).gif) &nbsp; ![alt text](https://github.com/SodanGum/SodanGum/blob/ce1928d7e730bff4dea3eb2232554480f0d28830/IMG_0390%20(15).png) &nbsp; ![alt text](https://github.com/SodanGum/SodanGum/blob/b93fb38ef39930f05c789bad79d7b6dca4e5a427/IMG_0390%20(1).gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dongle&duration=9500&pause=1000&color=B9AAD9&center=true&width=435&height=20&lines=%22But+I+think+she+wanted+you%2C+of+all+people%2C+to+know+the+truth.%22;%22She+wanted+to+live+on+in+your+memory%2C+not+as+a+soldier%2C+but+as+a+woman.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poor+Story&pause=2000&color=B9AAD9&center=true&width=435&height=29&lines=%22I+won't+scatter+your+sorrow+to+the+heartless+sea.%22;%22I+will+always+be+with+you.%22;%22Plant+your+roots+in+me.%22;%22I+won't+see+you+end+as+ashes.%22;%22Your+all+diamonds.%22)](https://git.io/typing-svg)
 
-[Clip of the Week](https://www.youtube.com/shorts/fUgO4GUCn4k) &nbsp;𓆙&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit)
+[Clip of the Week](https://www.youtube.com/shorts/fUgO4GUCn4k) &nbsp;𓃡&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit)
 
-⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=forbidden+fruit&color=b9aad9&style=for-the-badge)
+⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ+۫DD+𓃠&color=b9aad9&style=for-the-badge)
