@@ -4,6 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=19&pause=1000&color=879B85&center=true&width=435&height=31&lines=%22I+did+not+choose+to+be+Quiet.%22;%22I+wanted+to+express+my+feelings+to+you.%22;%22If+only+we+shared+a+common+tongue.%22;%22I+am+Quiet%2C+I+am+the+absence+of+words.%22)](https://git.io/typing-svg)
 
-[Clip of the Week](https://www.youtube.com/shorts/_zXzVN_nwxI) &nbsp;𓃡&nbsp; [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;𓃡&nbsp; [Recruits](https://ddrecruited.straw.page/)
+[Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;𓃡&nbsp; [Recruits](https://ddrecruited.straw.page/)
 
 ⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ+DDׅ݁&color=879b85&style=for-the-badge)
