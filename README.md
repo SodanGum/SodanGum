@@ -4,4 +4,4 @@
 
 [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;ଳ&nbsp; [My Squad](https://ddrecruited.straw.page/)
 
-⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ+DDׅ݁&color=96baca&style=for-the-badge)
+⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=96baca&style=for-the-badge)
