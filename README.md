@@ -1,6 +1,6 @@
 <div align="center">
 
-![Alt Text](https://github.com/SodanGum/SodanGum/blob/be438b69d8d82a6b49aaca213b8fbdd8d1ac0d83/Untitled79_20260226215001.png)
+![Alt Text](https://github.com/SodanGum/SodanGum/blob/e047ed56f51b3f602e4388d019fae1a97edf3a20/Untitled79_20260226215001.png)
 
 [Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;ଳ&nbsp; [My Squad](https://ddrecruited.straw.page/)
 
