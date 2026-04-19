@@ -1,7 +1,7 @@
 <div align="center">
 
-![Alt Text](https://github.com/SodanGum/SodanGum/blob/e047ed56f51b3f602e4388d019fae1a97edf3a20/Untitled79_20260226215001.png)
+me and who
 
-[Clip of the Week Archive](https://pastebin.com/UqBp6Eit) &nbsp;ଳ&nbsp; [My Squad](https://ddrecruited.straw.page/)
+![Alt Text](https://github.com/SodanGum/SodanGum/blob/f4aa2a8978e34082d07cf2645d5a9b8821429ff3/IMG_0828.jpeg)
 
-⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=96baca&style=for-the-badge)
+⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=ae9fb3&style=for-the-badge)
