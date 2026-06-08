@@ -6,4 +6,5 @@
 
 ![Alt Text](https://github.com/SodanGum/SodanGum/blob/2e9e6188f108d620edbf7d546812e50d0d50d49b/Untitled128_20260608163621%20(2).png)  
 
- $${\color{#96B6EC}⋆˙}$$ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=1D214D&style=plastic)
+ $${\color{#4B5BA4}⋆}$$ $${\color{#36368D}˙}$$ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=1D214D&style=plastic)
+
