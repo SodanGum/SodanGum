@@ -1,7 +1,9 @@
 <div align="center">
 
-![Alt Text](https://github.com/SodanGum/SodanGum/blob/97014aa19be1f5bc074cf029870c286985e60e61/tumblr_b9c9aa89189116b3755a6380da13dfd5_a56912fb_500_40.webp)  
+ $${\color{#96B6EC}⟡｡}$$
 
-**[Atabook ✧](https://sodangum.atabook.org/) &nbsp;&nbsp; [Strawpage ✧](https://the-bane.straw.page/)**
+<sub>${\text{\color{#4E62A7} Keep　\color{#5B7EB4} your \color{#618DBA} eyes \color{#8DB5E6} on \color{#9CB7F5} me.}}$
 
-⋆˙ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=8ac5e6&style=for-the-badge)
+![Alt Text](https://github.com/SodanGum/SodanGum/blob/2e9e6188f108d620edbf7d546812e50d0d50d49b/Untitled128_20260608163621%20(2).png)  
+
+ $${\color{#96B6EC}⋆˙}$$ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=4E62A7&style=for-the-badge)
