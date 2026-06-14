@@ -2,7 +2,7 @@
 
  $${\color{#96B6EC}⟡｡}$$
 
-<sub>${\text{\color{#4E62A7} We　\color{#5B7EB4} love \color{#618DBA} you \color{#8DB5E6} in \color{#9CB7F5} a \color{#A9B6F7} million \color{#CEC4FF} ways,}}$
+<sub>${\text{\color{#4E62A7} We　\color{#5B7EB4} love \color{#618DBA} you \color{#8DB5E6} in \color{#9CB7F5} a \color{#A9B6F7} million \color{#BAB6FD} ways,}}$
 
 <sub>${\text{\color{#4E62A7} in \color{#5B7EB4} a \color{#618DBA} million \color{#8DB5E6} places.}}$
 
