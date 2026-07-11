@@ -1,6 +1,6 @@
 <div align="center">
 
- $${\color{#96B6EC}ଳ˖}$$
+ $${\color{#96B6EC}ଳ \color{#4E62A7}˖}$$
 
 <sub>${\text{\color{#4E62A7} Kiss　\color{#5B7EB4} me \color{#618DBA} like \color{#8DB5E6} you \color{#9CB7F5} mean \color{#A9B6F7} it.}}$
 
