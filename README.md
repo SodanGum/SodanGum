@@ -1,12 +1,10 @@
 <div align="center">
 
- $${\color{#96B6EC}⟡｡}$$
+ $${\color{#96B6EC}ଳ˖}$$
 
-<sub>${\text{\color{#4E62A7} We　\color{#5B7EB4} love \color{#618DBA} you \color{#8DB5E6} in \color{#9CB7F5} a \color{#A9B6F7} million \color{#BAB6FD} ways,}}$
+<sub>${\text{\color{#4E62A7} Kiss　\color{#5B7EB4} me \color{#618DBA} like \color{#8DB5E6} you \color{#9CB7F5} mean \color{#A9B6F7} it.}}$
 
-<sub>${\text{\color{#4E62A7} in \color{#5B7EB4} a \color{#618DBA} million \color{#8DB5E6} places.}}$
-
-![Alt Text](https://github.com/SodanGum/SodanGum/blob/2e9e6188f108d620edbf7d546812e50d0d50d49b/Untitled128_20260608163621%20(2).png)  
+![Alt Text](https://github.com/SodanGum/SodanGum/blob/0476749879acfd5cac7cdadb0acdb02bcf028bba/tumblr_c284cfbe0ddf8dfc67e859c6b957a47d_7b853b4e_2048-removebg-preview%20(1).png)  
 
  $${\color{#4B5BA4}⋆}$$ $${\color{#36368D}˙}$$ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=1D214D&style=plastic)
 
