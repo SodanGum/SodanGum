@@ -1,11 +1,11 @@
 <div align="center">
 
- $${\color{#96B6EC}ଳ \color{#4E62A7}˖}$$
+ $${\color{#4B3F70}♡ \color{#B08DC3}˖}$$
 
-<sub>${\text{\color{#4E62A7} Kiss　\color{#5B7EB4} me \color{#618DBA} like \color{#8DB5E6} you \color{#9CB7F5} mean \color{#A9B6F7} it.}}$
+<sub>${\text{\color{#43395E} Mmm,　\color{#5C5085} what \color{#6F507F} a \color{#774F6C} lovely \color{#A7698D} ending.}}$
 
-![Alt Text](https://github.com/SodanGum/SodanGum/blob/0476749879acfd5cac7cdadb0acdb02bcf028bba/tumblr_c284cfbe0ddf8dfc67e859c6b957a47d_7b853b4e_2048-removebg-preview%20(1).png)  
+![Alt Text](https://github.com/SodanGum/SodanGum/blob/af3d470bd7d9e9b8b702a927c769a7c5e5f16528/ezgif.com-video-to-gif-converter.gif)  
 
- $${\color{#4B5BA4}⋆}$$ $${\color{#36368D}˙}$$ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=1D214D&style=plastic)
+ $${\color{#4B3F70}⋆}$$ $${\color{#B08DC3}˙}$$ &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=A7698D&style=plastic)
 
-[![Alt Text](https://github.com/SodanGum/SodanGum/blob/d3a9f559f5ab81dfc5f2e1f9638e107c76b39a40/IMG_1002_50.png)](https://sodangum.atabook.org/) &nbsp; [![Alt Text](https://github.com/SodanGum/SodanGum/blob/2a7cd0dee1bedb2add93cf9a2cd8b8aa22fcea72/IMG_1005_50.png)](https://the-bane.straw.page/)  &nbsp; [![Alt Text](https://github.com/SodanGum/SodanGum/blob/43f35482ba51e2dbb71499b79f077b5389eccba8/IMG_1004_50.png)](https://pronouns.cc/@SodanGum)  
+[![Alt Text](https://github.com/SodanGum/SodanGum/blob/1ed1b0fffcf10dd03857f2c5ded1839532b679e8/tumblr_5e390290a59cb1d6aae6a58bd9bd0733_4f4242a0_2048_3_20.png)](https://sodangum.atabook.org/) &nbsp; [![Alt Text](https://github.com/SodanGum/SodanGum/blob/5a0ce10367e3e921dc57e337fccbd6a10b5c554c/tumblr_b4ecb9ee86659be312cab06b56e2c084_c9a43b5e_2048_1_20.png)](https://the-bane.straw.page/)  &nbsp; [![Alt Text](https://github.com/SodanGum/SodanGum/blob/abd808f0093168f4dd1f3d49c5e29912302ed2df/tumblr_6dbe46d39444d7fc9225bd82c1d3cc73_a97ff4fc_2048_20.png)](https://pronouns.cc/@SodanGum)  
