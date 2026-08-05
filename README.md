@@ -11,17 +11,7 @@
 <p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈}}$</p> 
 <br/>
 
-
 <div align="right">
-  <details>
-    <summary>$${\color{#C0AFC6} ✄┈┈}$$</summary>
-    <p>${\text{\color{#4B3F70} Baby, I promise}}$</p>
-   <p>${\text{\color{#A7698D} There's nobody new}}$</p>
- </details>
-</div>
-  
-  
-  <div align="center">
   <details>
     <summary>${\text{\color{#C0AFC6} Thank you}}$</summary>
    
@@ -31,7 +21,14 @@
 </div>
 
 
-
+<div align="center">
+  <details>
+    <summary>$${\color{#C0AFC6} ✄┈┈}$$</summary>
+    <p>${\text{\color{#4B3F70} Baby, I promise}}$</p>
+   <p>${\text{\color{#A7698D} There's nobody new}}$</p>
+ </details>
+</div>
+    
 
 <p align="left">${\text{\color{#4B3F70} Cantarella \color{#A7698D} Chisa \color{#774F6C} Kinnie \color{#C0AFC6} ⟡ ݁ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$</p>
 <details>
