@@ -8,7 +8,7 @@
   <img src="https://github.com/SodanGum/SodanGum/blob/af3d470bd7d9e9b8b702a927c769a7c5e5f16528/ezgif.com-video-to-gif-converter.gif" alt="My Image Description">
 </p> 
 
-<p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈}}$</p> 
+<p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈}}$</p> 
 <br/>
 <p align="left">${\text{\color{#4B3F70} Cantarella \color{#A7698D} Chisa \color{#774F6C} Kinnie \color{#C0AFC6} ⟡ ݁ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$</p>
 <details>
