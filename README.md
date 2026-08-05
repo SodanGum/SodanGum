@@ -17,8 +17,6 @@
     <summary>$${\color{#C0AFC6} ✄┈┈}$$</summary>
     <p>${\text{\color{#4B3F70} Baby, I promise}}$</p>
    <p>${\text{\color{#A7698D} There's nobody new}}$</p>
-   <p>${\text{\color{#4B3F70} I'm being honest}}$</p>
-   <p>${\text{\color{#A7698D} There's no one like you}}$</p>
  </details>
 </div>
   
