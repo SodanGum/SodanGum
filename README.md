@@ -11,12 +11,15 @@
 <p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈}}$</p> 
 <br/>
 <p align="left">${\text{\color{#4B3F70} Cantarella \color{#A7698D} Chisa \color{#774F6C} Kinnie \color{#C0AFC6} ⟡ ݁ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$</p>
+<details>
+  <summary> $${\color{#C0AFC6} Links}$$ </summary>
 <p align="left">
   <a href="https://sodangum.atabook.org/">Atabook</a>
 $${\color{#B08DC3}✦}$$
   <a href="https://the-bane.straw.page/">StrawPage</a>
 $${\color{#B08DC3}✦}$$  
  <a href="https://pronouns.cc/@SodanGum">Pronouns</a>
+ </details>
 
  <p align="left">$${\color{#4B3F70}⋆}$$ $${\color{#B08DC3}˙}$$ &nbsp;&nbsp;
 
@@ -24,5 +27,3 @@ $${\color{#B08DC3}✦}$$
 
 
   </p>
-
-  
