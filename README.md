@@ -10,6 +10,20 @@
 
 <p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈}}$</p> 
 <br/>
+
+
+<div align="right">
+  <details>
+    <summary>$${\color{#C0AFC6} ✄┈┈}$$</summary>
+    <p>${\text{\color{#4B3F70} Is \color{#4B3F70} it \color{#4B3F70} a crime?}}$</p>
+   <p>${\text{\color{#A7698D} Is \color{#A7698D} it \color{#A7698D} a crime.}}$</p>
+   <p>${\text{\color{#4B3F70} That \color{#4B3F70} I \color{#4B3F70} still want you?}}$</p>
+   <p>${\text{\color{#A7698D} And I want you to want me too, mmm-mmm.}}$</p>
+  </details>
+</div>
+
+
+
 <p align="left">${\text{\color{#4B3F70} Cantarella \color{#A7698D} Chisa \color{#774F6C} Kinnie \color{#C0AFC6} ⟡ ݁ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$</p>
 <details>
   <summary> $${\color{#C0AFC6} Links}$$ </summary>
