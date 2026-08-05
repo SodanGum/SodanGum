@@ -19,8 +19,19 @@
    <p>${\text{\color{#A7698D} There's nobody new}}$</p>
    <p>${\text{\color{#4B3F70} I'm being honest}}$</p>
    <p>${\text{\color{#A7698D} There's no one like you}}$</p>
+ </details>
+</div>
+  
+  
+  <div align="center">
+  <details>
+    <summary>${\text{\color{#C0AFC6} Thank you}}$</summary>
+   
+   [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
+  
   </details>
 </div>
+
 
 
 
@@ -34,6 +45,8 @@ $${\color{#B08DC3}✦}$$
 $${\color{#B08DC3}✦}$$  
  <a href="https://pronouns.cc/@SodanGum">Pronouns</a>
  </details>
+
+
 
  <p align="left">$${\color{#4B3F70}⋆}$$ $${\color{#B08DC3}˙}$$ &nbsp;&nbsp;
 
