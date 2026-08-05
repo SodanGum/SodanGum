@@ -26,4 +26,4 @@ $${\color{#B08DC3}✦}$$
   ![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=A7698D&style=plastic)     ${\text{\color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$
 
 
-  </p>
+
