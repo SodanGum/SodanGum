@@ -16,6 +16,8 @@
     <summary>${\text{\color{#C0AFC6} Thank you}}$</summary>
    
    [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
+   
+   [pt-fashion](https://github.com/pt-fashion)
   
   </details>
 </div>
