@@ -26,8 +26,8 @@
 <div align="center">
   <details>
     <summary>$${\color{#C0AFC6} ✄┈┈}$$</summary>
-    <p>${\text{\color{#4B3F70} Maybe I}}$</p>
-   <p>${\text{\color{#A7698D} Lost my mind}}$</p>
+    <p>${\text{\color{#4B3F70} See her face in the forest,}}$</p>
+   <p>${\text{\color{#A7698D} then it disappears.}}$</p>
  </details>
 </div>
     
