@@ -26,8 +26,8 @@
 <div align="center">
   <details>
     <summary>$${\color{#C0AFC6} ✄┈┈}$$</summary>
-    <p>${\text{\color{#4B3F70} See her face in the forest,}}$</p>
-   <p>${\text{\color{#A7698D} then it disappears.}}$</p>
+    <p>${\text{\color{#4B3F70} Every day is summertime}}$</p>
+   <p>${\text{\color{#A7698D} Every day is summertime with you}}$</p>
  </details>
 </div>
     
