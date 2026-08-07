@@ -5,7 +5,7 @@
 <p align="center"><sub>${\text{\color{#43395E} Mmm,　\color{#5C5085} what \color{#6F507F} a \color{#774F6C} lovely \color{#A7698D} ending.}}$
 
 <p align="center">
-  <img src="https://github.com/SodanGum/SodanGum/blob/8a26577db045bf2f8de1aec8c8866325f5859dbd/ezgif-48079b78ac9c7dcd.gif" alt="My Image Description">
+  <img src="https://github.com/SodanGum/SodanGum/blob/ea3002b5d7b8c47c96ece03597c5aa84a9f20d9e/ezgif-87aaf2547f9daf08-enhanced.gif" alt="My Image Description">
 </p> 
 
 <p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈}}$</p> 
