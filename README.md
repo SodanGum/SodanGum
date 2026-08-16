@@ -20,6 +20,8 @@
    [pt-fashion](https://github.com/pt-fashion)
 
    [title-town](https://github.com/title-town)
+
+   [pt-hall-of-media](https://github.com/pt-hall-of-media)
   
   </details>
 </div>
