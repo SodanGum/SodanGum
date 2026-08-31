@@ -30,8 +30,8 @@
 <div align="center">
   <details>
     <summary>$${\color{#A7698D} ✄ \color{#A7698D} ┈ \color{#C0AFC6}┈}$$</summary>
-    <p>${\text{\color{#4B3F70} Les yeux sans visage}}$</p>
-   <p>${\text{\color{#A7698D} Eyes without a face}}$</p>
+    <p>${\text{\color{#4B3F70} We do not speak}}$</p>
+   <p>${\text{\color{#A7698D} And I still love you}}$</p>
  </details>
 </div>
     
