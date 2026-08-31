@@ -1,6 +1,6 @@
 
 
- $${\color{#4B3F70}♡ \color{#B08DC3}˖}$$
+ $${\color{#774F6C}♡ \color{#c86681}˖}$$
 
 <p align="center"><sub>${\text{\color{#43395E} I　\color{#5C5085} will \color{#6F507F} cut \color{#774F6C} this \color{#A7698D} loop \color{#b2698c} at \color{#c06c8c} its \color{#c86681} source.}}$
 
@@ -8,7 +8,7 @@
   <img src="https://github.com/CantarellaFisalia/CantarellaFisalia/blob/fb42f899af9b72f87d5131fa7a598413d9fbbda7/ScreenRecording_08-05-202622-59-26_1-ezgif.com-video-to-gif-converter.gif" alt="My Image Description">
 </p> 
 
-<p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈}}$</p> 
+<p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈}}$</p> 
 <br/>
 
 <div align="right">
@@ -29,14 +29,14 @@
 
 <div align="center">
   <details>
-    <summary>$${\color{#C0AFC6} ✄┈┈}$$</summary>
+    <summary>$${\color{#C0AFC6} ✄ \color{#c06c8c} ┈ \color{#C0AFC6}┈}$$</summary>
     <p>${\text{\color{#4B3F70} Les yeux sans visage}}$</p>
    <p>${\text{\color{#A7698D} Eyes without a face}}$</p>
  </details>
 </div>
     
 
-<p align="left">${\text{\color{#4B3F70} Cantarella \color{#A7698D} Chisa \color{#774F6C} Kinnie \color{#C0AFC6} ⟡ ݁ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$</p>
+<p align="left">${\text{\color{#4B3F70} Cantarella \color{#A7698D} Chisa \color{#774F6C} Kinnie \color{#C0AFC6} ⟡ ݁ \color{#c86681} ┈ \color{#C0AFC6} ┈}}$</p>
 <details>
   <summary> $${\color{#C0AFC6} Links}$$ </summary>
 <p align="left">
@@ -51,7 +51,7 @@ $${\color{#B08DC3}✦}$$
 
  <p align="left">$${\color{#4B3F70}⋆}$$ $${\color{#B08DC3}˙}$$ &nbsp;&nbsp;
 
-  ![](https://komarev.com/ghpvc/?username=SodanGum&label=✗&color=b65973&style=plastic)     ${\text{\color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$
+  ![](https://komarev.com/ghpvc/?username=SodanGum&label=✗&color=b65973&style=plastic)     ${\text{\color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈}}$
 
 
 
