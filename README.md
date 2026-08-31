@@ -2,10 +2,10 @@
 
  $${\color{#4B3F70}♡ \color{#B08DC3}˖}$$
 
-<p align="center"><sub>${\text{\color{#43395E} Mmm,　\color{#5C5085} what \color{#6F507F} a \color{#774F6C} lovely \color{#A7698D} ending.}}$
+<p align="center"><sub>${\text{\color{#43395E} I　\color{#5C5085} will \color{#6F507F} cut \color{#774F6C} this \color{#A7698D} loop}}$
 
 <p align="center">
-  <img src="https://github.com/SodanGum/SodanGum/blob/ea3002b5d7b8c47c96ece03597c5aa84a9f20d9e/ezgif-87aaf2547f9daf08-enhanced.gif" alt="My Image Description">
+  <img src="https://github.com/CantarellaFisalia/CantarellaFisalia/blob/fb42f899af9b72f87d5131fa7a598413d9fbbda7/ScreenRecording_08-05-202622-59-26_1-ezgif.com-video-to-gif-converter.gif" alt="My Image Description">
 </p> 
 
 <p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈}}$</p> 
