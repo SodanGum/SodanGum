@@ -8,12 +8,12 @@
   <img src="https://github.com/CantarellaFisalia/CantarellaFisalia/blob/fb42f899af9b72f87d5131fa7a598413d9fbbda7/ScreenRecording_08-05-202622-59-26_1-ezgif.com-video-to-gif-converter.gif" alt="My Image Description">
 </p> 
 
-<p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈}}$</p> 
+<p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈}}$</p> 
 <br/>
 
 <div align="right">
   <details>
-    <summary>${\text{\color{#C0AFC6} Thank you}}$</summary>
+    <summary>${\text{\color{#A7698D} Thank you}}$</summary>
    
    [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
    
@@ -29,7 +29,7 @@
 
 <div align="center">
   <details>
-    <summary>$${\color{#C0AFC6} ✄ \color{#c06c8c} ┈ \color{#C0AFC6}┈}$$</summary>
+    <summary>$${\color{#A7698D} ✄ \color{#A7698D} ┈ \color{#C0AFC6}┈}$$</summary>
     <p>${\text{\color{#4B3F70} Les yeux sans visage}}$</p>
    <p>${\text{\color{#A7698D} Eyes without a face}}$</p>
  </details>
@@ -38,7 +38,7 @@
 
 <p align="left">${\text{\color{#4B3F70} Cantarella \color{#A7698D} Chisa \color{#774F6C} Kinnie \color{#C0AFC6} ⟡ ݁ \color{#c86681} ┈ \color{#C0AFC6} ┈}}$</p>
 <details>
-  <summary> $${\color{#C0AFC6} Links}$$ </summary>
+  <summary> $${\color{#A7698D} Links}$$ </summary>
 <p align="left">
   <a href="https://sodangum.atabook.org/">Atabook</a>
 $${\color{#B08DC3}✦}$$
