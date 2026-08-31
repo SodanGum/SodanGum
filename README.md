@@ -2,7 +2,7 @@
 
  $${\color{#4B3F70}♡ \color{#B08DC3}˖}$$
 
-<p align="center"><sub>${\text{\color{#43395E} I　\color{#5C5085} will \color{#6F507F} cut \color{#774F6C} this \color{#A7698D} loop}}$
+<p align="center"><sub>${\text{\color{#43395E} I　\color{#5C5085} will \color{#6F507F} cut \color{#774F6C} this \color{#A7698D} loop \color{#b2698c} at \color{#c06c8c} its \color{#c86681} source.}}$
 
 <p align="center">
   <img src="https://github.com/CantarellaFisalia/CantarellaFisalia/blob/fb42f899af9b72f87d5131fa7a598413d9fbbda7/ScreenRecording_08-05-202622-59-26_1-ezgif.com-video-to-gif-converter.gif" alt="My Image Description">
@@ -30,8 +30,8 @@
 <div align="center">
   <details>
     <summary>$${\color{#C0AFC6} ✄┈┈}$$</summary>
-    <p>${\text{\color{#4B3F70} Every day is summertime}}$</p>
-   <p>${\text{\color{#A7698D} Every day is summertime with you}}$</p>
+    <p>${\text{\color{#4B3F70} Les yeux sans visage}}$</p>
+   <p>${\text{\color{#A7698D} Eyes without a face}}$</p>
  </details>
 </div>
     
@@ -51,7 +51,7 @@ $${\color{#B08DC3}✦}$$
 
  <p align="left">$${\color{#4B3F70}⋆}$$ $${\color{#B08DC3}˙}$$ &nbsp;&nbsp;
 
-  ![](https://komarev.com/ghpvc/?username=SodanGum&label=۶۟ৎ&color=A7698D&style=plastic)     ${\text{\color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$
+  ![](https://komarev.com/ghpvc/?username=SodanGum&label=✗&color=b65973&style=plastic)     ${\text{\color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈ \color{#D7ACE2} ┈ \color{#C0AFC6} ┈}}$
 
 
 
