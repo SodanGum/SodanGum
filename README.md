@@ -2,16 +2,15 @@
 
  $${\color{#774F6C}♡ \color{#c86681}˖}$$
 
-<p align="center"><sub>${\text{\color{#43395E} I　\color{#5C5085} will \color{#6F507F} cut \color{#774F6C} this \color{#A7698D} loop \color{#b2698c} at \color{#c06c8c} its \color{#c86681} source.}}$
 
 <p align="center">
-  <img src="https://github.com/CantarellaFisalia/CantarellaFisalia/blob/fb42f899af9b72f87d5131fa7a598413d9fbbda7/ScreenRecording_08-05-202622-59-26_1-ezgif.com-video-to-gif-converter.gif" alt="My Image Description">
+  <p align="center"><img width="400" src="https://github.com/SodanGum/SodanGum/blob/0b269b8615f0e4809eeeb7f496ff995e2fa156b6/Untitled195_20260928071024.png" alt="chisa" align="center" width="300" /></p>
 </p> 
 
 <p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈}}$</p> 
 <br/>
 
-<div align="right">
+<div align="left">
   <details>
     <summary>${\text{\color{#A7698D} Thank you}}$</summary>
    
@@ -26,18 +25,6 @@
   </details>
 </div>
 
-
-<div align="center">
-  <details>
-    <summary>$${\color{#A7698D} ✄ \color{#A7698D} ┈ \color{#C0AFC6}┈}$$</summary>
-    <p>${\text{\color{#4B3F70} We do not speak}}$</p>
-   <p>${\text{\color{#A7698D} And I still love you}}$</p>
-   <p>${\text{\color{#4B3F70} I hope you agree}}$</p>
- </details>
-</div>
-    
-
-<p align="left">${\text{\color{#4B3F70} Cantarella \color{#A7698D} Chisa \color{#774F6C} Kinnie \color{#C0AFC6} ⟡ ݁ \color{#c86681} ┈ \color{#C0AFC6} ┈}}$</p>
 <details>
   <summary> $${\color{#A7698D} Links}$$ </summary>
 <p align="left">
