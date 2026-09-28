@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <p align="center"><img width="400" src="https://github.com/SodanGum/SodanGum/blob/0b269b8615f0e4809eeeb7f496ff995e2fa156b6/Untitled195_20260928071024.png" alt="chisa" align="center" width="100" /></p>
+  <p align="center"><img width="300" src="https://github.com/SodanGum/SodanGum/blob/0b269b8615f0e4809eeeb7f496ff995e2fa156b6/Untitled195_20260928071024.png" alt="chisa" align="center" width="100" /></p>
 </p> 
 
 <p align="left">${\text{\color{#A7698D} ✁ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈ \color{#C0AFC6} ┈ \color{#c86681} ┈}}$</p> 
