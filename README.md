@@ -1,6 +1,6 @@
 
 
- $${\color{#774F6C}I \color{#c86681}♡ \color{#774F6C}my \space \color{#A7698D}trio}$$
+ $${\color{#83929A}I \color{#907BAA}♡ \color{#83929A}my \space \color{#6772BF}trio}$$
 
 <div align="center">
 <p align="center">
@@ -33,7 +33,7 @@
 
 <div align="center">
   <details>
-    <summary>${\text{\color{#A7698D} Thank you}}$</summary>
+    <summary>${\text{\color{#6772BF} Thank you}}$</summary>
    
    [pt-walk-of-fame](https://github.com/pt-walk-of-fame)
    [pt-fashion](https://github.com/pt-fashion)
@@ -42,8 +42,8 @@
   
   </details>
 
- <p align="center">$${\color{#4B3F70}⋆}$$ $${\color{#B08DC3}˙}$$ &nbsp;&nbsp;
+ <p align="center">$${\color{#766BA9}⋆}$$ $${\color{#6371C1}˙}$$ &nbsp;&nbsp;
 
-  ![](https://komarev.com/ghpvc/?username=SodanGum&label=✗&color=b65973&style=plastic)    
+  ![](https://komarev.com/ghpvc/?username=SodanGum&label=༊༄.°&color=6772BF&style=plastic)    
 
 
