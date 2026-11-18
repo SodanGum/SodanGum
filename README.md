@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td rowspan="2" align="center" valign="middle">
-        <img width="300" src="https://github.com/SodanGum/SodanGum/blob/74e9348fb8d1dc0776528cf220b06976395cc472/Untitled195_20260928071024.png" alt="chisa" />
+        <img width="300" src="https://github.com/SodanGum/SodanGum/blob/f3f77430cd39b1b483233d08330fa39c208d2de7/IMG_1330.png" alt="chisa" />
       </td>
       <td align="center" valign="middle">
          $${\color{#92B9B6}Onyx}$$
